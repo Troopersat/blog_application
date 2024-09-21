@@ -3,6 +3,7 @@ class PageController < ApplicationController
   end
 
   def about
+    # needddd
   end
   
 end
